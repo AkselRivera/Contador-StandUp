@@ -47,7 +47,7 @@ return (
         </div>
             {
             !clicked &&
-            <button className='btn btn-outline-light btn-lg m-3' onClick={handleClick} >Holis bobis</button>
+            <button className='btn btn-outline-light btn-lg m-3' onClick={handleClick} >Comenzar</button>
             }
         </div>
     </div>
